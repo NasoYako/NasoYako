@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NasoYako
-- 👀 I’m interested in cricket
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on a 3rd year project 
-- 📫 How to reach me conatct my mom
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am tired
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me
+- 😄 Pronouns: 
+- ⚡ Fun fact:
 
 <!---
 NasoYako/NasoYako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
