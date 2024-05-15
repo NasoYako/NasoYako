@@ -5,6 +5,7 @@
 - 📫 How to reach me my brother
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like ice cream
+- What am i studying? 
 
 <!---
 NasoYako/NasoYako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
